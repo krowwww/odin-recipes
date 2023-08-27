@@ -12,24 +12,12 @@ p {
     margin-bottom: 5px;
 }
 
-.egg-image{
-    display: block;
-    margin: 0px auto;
-}
 
-.egg{
-    margin-right: 283.5px;
-    margin-left: 283.5px;
-    text-align: center;
-}
 .eggh1 {
     font-family: arial, sans-serif;
     font-weight: 800;
     color: rgb(68, 133, 31);
     font-size: 66.2px;
-    margin-right: 283.5px;
-    margin-left: 283.5px;
     margin-bottom: 10px;
     margin-top: 30px;
-    text-align: center;
 }
