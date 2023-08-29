@@ -1,3 +1,8 @@
+img{
+    height: 400px;
+    width: auto;
+}
+
 h3 {
     font-family: arial, sans-serif;
     font-weight: 800;
@@ -12,12 +17,36 @@ p {
     margin-bottom: 5px;
 }
 
-
-.eggh1 {
+h1 {
     font-family: arial, sans-serif;
-    font-weight: 800;
-    color: rgb(68, 133, 31);
-    font-size: 66.2px;
     margin-bottom: 10px;
     margin-top: 30px;
+    font-weight: 800;
+}
+
+h5 {
+    color:rgb(70, 52, 13)
+}
+
+.eggh1{
+    color: rgb(68, 133, 31);
+    font-size: 66.2px;
+}
+
+.las{ 
+    color: rgb(204, 71, 47)
+}
+
+.lash1 {
+    color: rgb(204, 71, 47);
+    font-size: 77.1px;
+}
+
+.mac{
+    color:rgb(230, 172, 47);
+}
+
+.mach1{
+    color: rgb(230, 172, 47);
+    font-size: 41.58px;
 }
