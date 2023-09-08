@@ -34,7 +34,7 @@ h5 {
 }
 
 .las{ 
-    color: rgb(204, 71, 47)
+    color: rgb(204, 71, 47);
 }
 
 .lash1 {
@@ -49,4 +49,40 @@ h5 {
 .mach1{
     color: rgb(230, 172, 47);
     font-size: 41.58px;
+}
+
+.recipes-title {
+    width: 280px;
+    font-size: 43.5px;
+    margin: 0 auto;
+}
+
+div {
+    margin: 13px;
+    height: 200px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+div p, 
+div p a {
+    margin: 0 0 0 0;
+    padding: 85.24px 0px;
+    color: white;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-weight: bold;
+
+}
+
+.loathful-lasagna {
+    background-color: rgb(204, 98, 79);
+}
+
+.enchanted-egg-fried-rice {
+    background-color: rgb(85, 129, 59);
+}
+
+.mystical-mac-and-cheese {
+    background-color: rgb(204, 165, 82);
 }
